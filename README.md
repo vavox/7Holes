@@ -1,2 +1,2 @@
 # 7Holes
-7Holes - simple puzzle game made with using SFML
+7Holes - simple puzzle game made with SFML
